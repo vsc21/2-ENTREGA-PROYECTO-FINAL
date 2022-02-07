@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;400&family=Work+Sans:wght@100&display=swap');
+
+#miCuenta {
+    margin: 15px;
+    list-style-type: none;
+}
+
+#cuerpo {
+    font-style: normal;
+     font-weight: bold;
+     font-family: 'Roboto Slab', serif;
+font-family: 'Work Sans', sans-serif;
+     font-size: 20px;
+}
+
+#carousel1 {
+    margin: 20px;
+}
