@@ -16,9 +16,6 @@ font-family: 'Work Sans', sans-serif;
 #carousel1 {
     margin: 20px;
 }
-#descripcion {
-    margin-top: 100px;
-}
 #presentacion {
     color: wheat;
     border: solid white;
@@ -54,3 +51,19 @@ aside {
     font-size: small;
     text-align: center;
 }
+.historia {
+    text-align: center;
+    margin-top: 25px;
+    border: white solid;
+    padding: 10px;
+   }
+#nacimiento {
+    text-align: center;
+    padding: 10px;
+    border:white dashed;
+    margin: 10px;
+}
+#mediosDePago {
+    text-align: center;
+    margin-top: 10px;
+    }
