@@ -16,3 +16,41 @@ font-family: 'Work Sans', sans-serif;
 #carousel1 {
     margin: 20px;
 }
+#descripcion {
+    margin-top: 100px;
+}
+#presentacion {
+    color: wheat;
+    border: solid white;
+     padding: 30px;
+}
+aside {
+    margin-top: 75px;
+    background-color: white;
+}
+#Envios {
+    border: rgb(0, 183, 255) dashed; 
+    margin: 20px;
+    text-align: center;
+}
+#tarjetas {
+   text-align: center;
+    margin: 20px;
+    
+}
+#newsletter {
+    text-align: center;
+}
+#flecha {
+    display: flex;
+    flex-direction: row;
+}
+#footer {
+    margin: 20px;
+    background-color: white;
+    }
+#copyright {
+    color: white;
+    font-size: small;
+    text-align: center;
+}
