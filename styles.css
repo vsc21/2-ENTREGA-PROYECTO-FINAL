@@ -67,3 +67,20 @@ aside {
     text-align: center;
     margin-top: 10px;
     }
+#email {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-size: medium;
+    }
+#iconoEmail {
+    margin-right: 10px;
+}
+#escribinos {
+    color: white;
+    font-size: x-large;
+}
+#botonFormulario {
+    margin-top: 25px;
+    text-align: right;
+}
